@@ -28,4 +28,9 @@ Asks the user to choose a seat category
 Initializes a pointer seats and totalSeats to store the chosen seat category.
 
 
+![Image](https://github.com/user-attachments/assets/bc5f65ff-4428-4ead-9b57-ed50d3f3d34b)
+Assigns seats to the appropriate seat array (VIP, Regular, or Economy).
+If an invalid category is selected, it prints an error message and exits
+
+
 
