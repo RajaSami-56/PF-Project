@@ -40,4 +40,14 @@ Collects the ticket holder's details.
 Stores the user data in the selected seat array.
 
 
+![Image](https://github.com/user-attachments/assets/764b7155-9905-43e0-9ecf-3d976f065734)
+Display Seating Arrangements (displaySeatingArrangements function)
+Displays seating availability.
+Iterates through the VIP seat array:
+Displays [Empty] if the seat is available.
+Displays [Booked] if the seat is occupied.
+Adds a new line after every 5 seats for better formatting.
+Similar logic is used for Regular and Economy seats.
+
+
 
