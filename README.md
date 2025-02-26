@@ -33,4 +33,11 @@ Assigns seats to the appropriate seat array (VIP, Regular, or Economy).
 If an invalid category is selected, it prints an error message and exits
 
 
+![Image](https://github.com/user-attachments/assets/75fefa60-9b59-48b5-892f-19e1e7dca690)
+Finds the first available empty seat.
+If no seats are available, it displays an error message.
+Collects the ticket holder's details.
+Stores the user data in the selected seat array.
+
+
 
