@@ -50,4 +50,9 @@ Adds a new line after every 5 seats for better formatting.
 Similar logic is used for Regular and Economy seats.
 
 
+![Image](https://github.com/user-attachments/assets/10ff634f-c043-4b98-8be2-8f52dff2c4d5)
+Example Run
+
+
+
 
