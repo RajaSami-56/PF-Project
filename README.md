@@ -8,3 +8,11 @@ Exit the program.
 ![Image](https://github.com/user-attachments/assets/4ad14093-f46e-4e29-b01a-b4887b069aaf)
 Defines three seating categories: VIP, Regular, and Economy and Specifies the number of seats in each category.
 
+
+![Image](https://github.com/user-attachments/assets/4ad14093-f46e-4e29-b01a-b4887b069aaf)
+Defines a structure TicketHolder to store ticket holder details:
+Name (string)
+Age (integer)
+Unique ID (UID) (string)
+Whether they are with family ( 1 for Yes and 0 for No)
+
