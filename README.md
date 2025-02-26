@@ -16,3 +16,10 @@ Age (integer)
 Unique ID (UID) (string)
 Whether they are with family ( 1 for Yes and 0 for No)
 
+![Image](https://github.com/user-attachments/assets/f11046c7-588b-46a6-8e99-8c25a12637b9)
+Displays a menu for users to choose an action.
+Uses a do-while loop to keep running until the user chooses Exit (option 4).
+Calls different functions based on user choice
+
+
+
