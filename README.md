@@ -22,4 +22,10 @@ Uses a do-while loop to keep running until the user chooses Exit (option 4).
 Calls different functions based on user choice
 
 
+![Image](https://github.com/user-attachments/assets/81511397-1223-4f00-b599-09d5983a4e98)
+It is a Booking a Seat (function)
+Asks the user to choose a seat category
+Initializes a pointer seats and totalSeats to store the chosen seat category.
+
+
 
